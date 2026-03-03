@@ -1,0 +1,7 @@
+{
+  "name": "VeloxCode Intern Portal",
+  "description": "A comprehensive, professional intern management portal featuring role-based dashboards, assignment tracking, submission reviews, automated certificate generation, and an integrated application system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
